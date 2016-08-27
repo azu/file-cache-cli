@@ -1,4 +1,4 @@
-# file-cache-cli
+# file-cache-cli [![Build Status](https://travis-ci.org/azu/file-cache-cli.svg?branch=master)](https://travis-ci.org/azu/file-cache-cli)
 
 Command line tools that filter file paths by cached data.
 
