@@ -20,7 +20,7 @@
     "file-cache-cli": "bin/file-cache-cli.js",
     "file-cache-cli-clean": "bin/file-cache-cli-clean.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line tools that filter file paths by cached data.",
   "main": "lib/file-cache-cli.js",
   "directories": {
